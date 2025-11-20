@@ -1,5 +1,5 @@
 # Portfolio de Melina Dutour
-Este repositorio contiene trabajos IT realizados en los cursos de Talento Tech.
+Este repositorio contiene trabajos IT realizados en los cursos del gobierno de la ciudad.
 
 ## Python
 Proyecto realizado con un inventario para terminal en windows.
