@@ -5,8 +5,8 @@ Este repositorio contiene trabajos IT realizados en los cursos del gobierno de l
 Proyecto realizado con un inventario para terminal en windows.
 
 ### Para ejecutar este archivo:
-```pyhon
-python griego_gram.py
+```python
+python main.py
 ```
 
 ## Desarrollo Web - HTML/CSS
